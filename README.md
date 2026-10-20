@@ -82,6 +82,8 @@ Edges are labeled `input | output`.
 
 A final state of q0 means the string ends outside a comment. A final state of q2 or q3 means a comment was opened but never closed.
 
+![Sample](example_output.png)
+
 ## Handwritten
 
 <!-- Upload your handwritten work and replace the file names below -->
